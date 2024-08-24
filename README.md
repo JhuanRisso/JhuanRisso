@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there 👋
+
+ I'm Jhuan Risso, welcome to my profile!
+
+## ⚡ For now ⚡
+
+ I'm looking into developing my own coding skills, as I specialize
+ myself in the area, learning more about coding in general, tools,
+ features, engines, as well as collaborating in other projects
+ of my interest.
+
+ See you, space cowboy...
 
 <!--
-**JhuanRisso/JhuanRisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+poggers
 -->
