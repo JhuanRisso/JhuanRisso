@@ -1,9 +1,8 @@
 # JHUAN RISSO
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JhuanRisso&theme=radical&show_icons=true" />
- </a>
+ <div align="center">
+ <img height=200 src="https://github-readme-stats.vercel.app/api?username=JhuanRisso&theme=radical&show_icons=true/title_color="fff"" />
+ </div>
 
 #  Languages
 
