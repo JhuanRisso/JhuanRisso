@@ -1,7 +1,7 @@
 # JHUAN RISSO
 
  <div align="center">
- <img height=200 src="https://github-readme-stats.vercel.app/api?username=JhuanRisso&theme=radical&show_icons=true/title_color="fff"" />
+ <img height=200 src="https://github-readme-stats.vercel.app/api?username=JhuanRisso&theme=transparent&bg_color=000&border_color=ff04f9&show_icons=true&icon_color=ff04f9&title_color=ff04f9&text_color=0bbff1" />
  </div>
 
 #  Languages
